@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto do Número Secreto.
+# Olá, Bem vindo ao meu projeto do Amigo Secreto.
 
 ![image](https://github.com/Jbellottis/amigo-secreto/blob/main/assets/Captura%20de%20tela%202025-04-08%20190708.png)
 
